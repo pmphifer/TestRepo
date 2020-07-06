@@ -12,6 +12,7 @@ namespace VacationBudgetPlanner
             bool keepGoing = true;
             while (keepGoing)
             {
+                Console.WriteLine("Hello!");
                 Console.WriteLine("Welcome to the Vacation Budget Planner App");
 
                 Console.WriteLine();
